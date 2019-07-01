@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Week4Daily4</string>
+    <string name="celebrity_pic">Celebrity Pic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="celebrities">
+        <item>Alicia Keys</item>
+        <item>Denzel Washington</item>
+        <item>Barack Obama</item>
+        <item>50 Cent</item>
+        <item>Adam Levine</item>
+        <item> Micheal Jordan</item>
+        <item>Kerry Washington</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="celebrity_name">Celebrity Name</string>
+    <string name="celebrity_profession">Celebrity Profession</string>
+    <string name="celebrity_accolades">Celebrity Accolades</string>
+</resources>
