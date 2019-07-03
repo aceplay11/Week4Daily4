@@ -417,4 +417,6 @@ public class CelebrityDetailsFragment extends Fragment {
     }
 }
 
+![week4daily4screen1-1](https://user-images.githubusercontent.com/51377336/60611172-abd30f00-9d93-11e9-9c8d-d9b7857b221e.png)
+
 
